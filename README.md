@@ -1,8 +1,8 @@
-# 🌍 Power BI Earthquake Dashboard
+# Power BI Earthquake Dashboard
 
 This interactive dashboard, built with Power BI, visualizes and analyzes global earthquake data between **1900 and 2014**.
 
-## 📊 Dashboard Highlights:
+## Dashboard Highlights:
 
 - **Dynamic Filters:** Choose magnitude type (`mb`, `Ms`, `Mw`) and select any date range.
 - **Global Map:** Displays all recorded earthquake locations using Bing Maps.
@@ -12,25 +12,25 @@ This interactive dashboard, built with Power BI, visualizes and analyzes global 
 - **Yearly Trend:** Line chart illustrating how earthquake frequency changed over time.
 - **Total Counter:** View total filtered earthquakes instantly.
 
-## 📌 Key Insights:
+## Key Insights:
 
 - Most earthquakes occurred with magnitudes between **6.0 and 7.5**.
 - Earthquakes are more frequent at **shallow depths (<200 km)**.
 - April had the highest number of earthquakes.
 - Significant increase in earthquake records after **1950**.
 
-## 🛠️ Tools & Technologies:
+## Tools & Technologies:
 
 - **Power BI**
 - **Microsoft Bing Maps**
 - **USGS Earthquake Dataset** (1900–2014)
 
 
-## 📷 Screenshot:
+## Screenshot:
 ![Sales Overview](earthquake.png)
 
 
-## 📝 Author
+## Author
 
 - Dashboard by Mariam Raafat
 - Created as part of a data visualization learning journey
