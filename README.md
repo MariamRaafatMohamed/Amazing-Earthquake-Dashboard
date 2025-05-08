@@ -1,4 +1,4 @@
-# 🌍 Amazing Power BI Earthquake Dashboard
+# 🌍 Power BI Earthquake Dashboard
 
 This interactive dashboard, built with Power BI, visualizes and analyzes global earthquake data between **1900 and 2014**.
 
@@ -29,7 +29,8 @@ This interactive dashboard, built with Power BI, visualizes and analyzes global 
 ## 📷 Screenshot:
 ![Sales Overview](earthquake.png)
 
-## 👩‍💻 Created by:
 
-**Mariam Raafat**  
-*Data Analyst & Power BI Enthusiast*
+## 📝 Author
+
+- Dashboard by Mariam Raafat
+- Created as part of a data visualization learning journey
