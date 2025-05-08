@@ -27,7 +27,7 @@ This interactive dashboard, built with Power BI, visualizes and analyzes global 
 
 
 ## 📷 Screenshot:
-![Sales Overview](./Screenshot 2025-05-08 at 13.41.29.png)
+![Sales Overview](earthquake.png)
 
 ## 👩‍💻 Created by:
 
